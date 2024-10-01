@@ -17,12 +17,12 @@
         <div class="alert alert-danger">${alert}</div>
       </c:if>
       <div class="form-group">
-        <label for="uname">Username</label>
-        <input type="text" class="form-control" id="uname" name="uname" placeholder="Enter Username" required>
+        <label for="username">Username</label>
+        <input type="text" class="form-control" id="username" name="username" placeholder="Enter Username" required>
       </div>
       <div class="form-group">
-        <label for="psw">Password</label>
-        <input type="password" class="form-control" id="psw" name="psw" placeholder="Enter Password" required>
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="password" name="password" placeholder="Enter Password" required>
       </div>
       <div class="form-group form-check">
         <input type="checkbox" class="form-check-input" id="remember" name="remember">
